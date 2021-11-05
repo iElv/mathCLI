@@ -1,2 +1,3 @@
 # mathCLI
-Just a custom math CLI for counting.
+
+Just a simple math CLI for simple calculations.
